@@ -28,7 +28,7 @@ public class Principal {
 				p = leer.nextInt();
 				switch (p) {
 				case 1: {
-					System.out.println();
+					System.out.println("Holaaaa");
 				}
 				case 2: {
 
@@ -38,19 +38,19 @@ public class Principal {
 				}
 				break;
 			case 2:
-				System.out.println("El resultado de la resta es: " + unacalculadora.Resta());
+				
 				break;
 			case 3:
-				System.out.println("El resultado de la division es: " + unacalculadora.Division());
+				
 				break;
 			case 4:
-				System.out.println("El resultado de la multiplicacion es: " + unacalculadora.Multiplicacion());
+//				System.out.println("El resultado de la multiplicacion es: " + unacalculadora.Multiplicacion());
 				break;
 			case 5:
-				System.out.println("El resultado de la potencia es: " + unacalculadora.Potencia());
+//				System.out.println("El resultado de la potencia es: " + unacalculadora.Potencia());
 				break;
 			case 6:
-				System.out.println("El resultado de la raiz es: " + unacalculadora.Raiz());
+//				System.out.println("El resultado de la raiz es: " + unacalculadora.Raiz());
 				break;
 			case 7:
 				System.out.println("A salido del programa");
